@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/untitled2.iml" filepath="$PROJECT_DIR$/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tarea-1-APERLO.iml" filepath="$PROJECT_DIR$/.idea/Tarea-1-APERLO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarea/tarea.iml" filepath="$PROJECT_DIR$/tarea/tarea.iml" />
     </modules>
   </component>
 </project>
